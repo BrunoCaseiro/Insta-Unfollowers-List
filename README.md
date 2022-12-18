@@ -1,5 +1,7 @@
 # Insta-Unfollowers-List
-Very small Python script that gets Instagram unfollowers from your 'followers.json' and 'following.json' files.
+Developed in a few hours, by request of a friend.
+
+Small Python script that gets Instagram unfollowers from your 'followers.json' and 'following.json' files.
 
 You can get these files via Instagram's Privacy and Security section -> Request Download (JSON). Place then in the same directory as this script and run it.
 
